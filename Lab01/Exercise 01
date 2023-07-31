@@ -1,0 +1,16 @@
+<html>
+<head>
+	<title>First web</title>
+</head>
+<body >
+	<style>
+ 		body{background-image:url("qt1.jpg");}
+		img{opacity:0.5;}
+	</style>
+	<font color=red face=papyrus align=center size=2><h1>Quotes For Life</h1></font>
+	</br>
+	<center><img src="qt2.jpg" alt="quote" height=300 width=200 class="center"></center>
+</body>
+
+
+</html>
